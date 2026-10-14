@@ -1,0 +1,10 @@
+{
+  "name": "TDG",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/Namullan/TDG-Ascensao",
+  "description": "Uma expansão de cultivação inspirada em Tales of Demons and Gods: 179 conteúdos, 12 reinos, espíritos, alquimia, tribulações, Tarôs, mãos, planetas e chefes. Em português brasileiro. Talismã opcional para pontuações enormes.",
+  "dependencies": [
+    "Steamodded-Steamodded-1.1224.0",
+    "Thunderstore-lovely-0.9.0"
+  ]
+}

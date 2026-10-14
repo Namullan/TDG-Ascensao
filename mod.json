@@ -1,0 +1,12 @@
+{
+  "id": "TDG",
+  "name": "TDG — Ascensão",
+  "author": ["Mods Balatro"],
+  "description": "Expansão de cultivação inspirada em Tales of Demons and Gods: reinos, Qi, espíritos demoníacos, alquimia e tribulações. Conteúdo em português, compatível com Talismã.",
+  "prefix": "tdg",
+  "main_file": "main.lua",
+  "version": "1.1.0",
+  "priority": 30,
+  "dependencies": ["Steamodded (>=1.0.0~BETA-1224a)"],
+  "badge_colour": "31BFA5"
+}
